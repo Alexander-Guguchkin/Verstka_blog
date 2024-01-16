@@ -154,6 +154,7 @@ a{
 }
 .future-stories__image{
     display: flex;
+    justify-content: center;
     margin-bottom: 56px;
 }
 .future-stories__img1{margin-right: 20px;}
